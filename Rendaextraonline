@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Renda em Casa Online</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin:0; padding:0; display:flex; align-items:center; justify-content:center; min-height:100vh; background:#f6f7fb; color:#111; }
+    .card { width: 100%; max-width:720px; background:#fff; border-radius:12px; box-shadow:0 6px 30px rgba(0,0,0,0.08); padding:28px; text-align:center; }
+    h1 { margin:0 0 8px 0; font-size:24px; }
+    p { margin:0 0 18px 0; color:#444; }
+    .btn { display:block; margin:10px auto; padding:12px 18px; width:85%; max-width:420px; text-decoration:none; border-radius:10px; border:1px solid #ddd; font-weight:600; background:#fff; color:#111; }
+    .btn:hover { background:#f0f0f0; }
+    .muted { font-size:13px; color:#666; margin-top:18px; }
+    footer { font-size:12px; color:#888; margin-top:12px; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>💼 Renda em Casa Online</h1>
+    <p>Descubra formas seguras e acessíveis de gerar renda pela internet — tutoriais, cursos gratuitos e ferramentas confiáveis.</p>
+
+    <a class="btn" href="https://www.youtube.com/seucanal" target="_blank" rel="noopener">🎥 Meus Vídeos</a>
+    <a class="btn" href="https://www.seusite.com/cursos" target="_blank" rel="noopener">📚 Cursos Gratuitos</a>
+    <a class="btn" href="https://www.seusite.com/ferramentas" target="_blank" rel="noopener">🛠 Ferramentas Úteis</a>
+    <a class="btn" href="mailto:rendaextraonline153@gmail.com">💬 Contato / Parcerias</a>
+
+    <p
